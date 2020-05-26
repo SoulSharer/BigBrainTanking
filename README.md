@@ -1,4 +1,4 @@
-**Addon is no longer maintained since I stopped playing. It may contains bugs and crashes for current versions of WoW: Classic. Please fork and continue development, you can do anything you want with this.**
+**Addon is no longer maintained since I stopped playing. It may contain bugs and crashes for current versions of WoW: Classic. Please fork and continue development, you can do anything you want with this.**
 
 # BigBrainTanking
 BigBrainTanking is an addon for World of Warcraft 1.13.2 that is aimed to assist you with tanking chores.
